@@ -1,16 +1,41 @@
-### Hi there 👋
+# Welcome !
 
-<!--
-**Chloe070196/Chloe070196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Chloe, a **full-stack developer** with a passion for **solving real-life problems** using code. I started coding last year and joined Boolean UK, completing their **6-month, full-time, full-stack software development bootcamp**, and I have not stopped since then. Have a look at my experience and projects on my [**portofolio**](https://my-portfolio-gilt-alpha-99.vercel.app/), or get in touch with me on [**linkedin**](www.linkedin.com/in/chloé-z-77b1a2184)!
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+![SVG Image](./assets/svg/css-svgrepo-com.svg)
+![SVG Image](./assets/svg/html-svgrepo-com.svg)
+![SVG Image](./assets/svg/js-official-svgrepo-com.svg)
+![SVG Image](./assets/svg/typescript-official-svgrepo-com.svg)
+![SVG Image](./assets/svg/sql-svgrepo-com.svg)
+![SVG Image](./assets/svg/markdown-svgrepo-com.svg)
+
+### Frameworks & libraries
+
+#### Frontend
+
+![SVG Image](./assets/svg/vue-svgrepo-com.svg)
+![SVG Image](./assets/svg/reactjs-svgrepo-com.svg)
+![SVG Image](./assets/svg/locale-svgrepo-com.svg)
+
+#### Backend
+
+![SVG Image](./assets/svg/expressjs-icon.svg)
+![SVG Image](./assets/svg/nestjs-svgrepo-com.svg)
+![SVG Image](./assets/svg/light-prisma-svgrepo-com.svg)
+![SVG Image](./assets/svg/pgsql-svgrepo-com.svg)
+
+### Workflow / IDE tools
+
+![SVG Image](./assets/svg/node-svgrepo-com.svg)
+![SVG Image](./assets/svg/git-svgrepo-com.svg)
+![SVG Image](./assets/svg/vscode2-svgrepo-com.svg)
+![SVG Image](./assets/svg/github-142-svgrepo-com.svg)
+
+### Documentation
+
+![SVG Image](./assets/svg/swagger-svgrepo-com.svg)
+![SVG Image](./assets/svg/vite-svgrepo-com.svg)
