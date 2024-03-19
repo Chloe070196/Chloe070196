@@ -19,7 +19,6 @@ Hi there, I'm Chloe, a **full-stack developer** with a passion for **solving rea
 
 ![SVG Image](./assets/svg/vue-svgrepo-com.svg)
 ![SVG Image](./assets/svg/reactjs-svgrepo-com.svg)
-![SVG Image](./assets/svg/locale-svgrepo-com.svg)
 
 #### Backend
 
