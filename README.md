@@ -37,4 +37,3 @@ Hi there, I'm Chloe, a **full-stack developer** with a passion for **solving rea
 ### Documentation
 
 ![SVG Image](./assets/svg/swagger-svgrepo-com.svg)
-![SVG Image](./assets/svg/vite-svgrepo-com.svg)
