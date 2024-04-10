@@ -1,10 +1,16 @@
 # Welcome !
 
-Hi there, I'm Chloe, a **full-stack developer** with a passion for **solving real-life problems** using code. I started coding last year and joined Boolean UK, completing their **6-month, full-time, full-stack software development bootcamp**, and I have not stopped since then. Have a look at my experience and projects on my [**portofolio**](https://my-portfolio-gilt-alpha-99.vercel.app/), or get in touch with me on [**linkedin**](www.linkedin.com/in/chloé-z-77b1a2184)!
+## Hello there, I'm Chloe, a junior full-stack developer
+
+ with a passion for **solving real-life problems** using code. I started coding last year and joined Boolean UK, completing their **6-month, full-time, full-stack software development bootcamp**, and I have not stopped since then.
+
+Have a look at my experience and projects on my [**portfolio**](https://chloe-zermatten-portfolio.vercel.app/), or get in touch with me on [**linkedin**](www.linkedin.com/in/chloé-z-77b1a2184)!
 
 ## Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Chloe070196&count_private=true&theme=tokyonight&showicons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Chloe070196&count_private=true&theme=transparent&showicons=true)
+
+-> stats card rendered using [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 
@@ -41,5 +47,3 @@ Hi there, I'm Chloe, a **full-stack developer** with a passion for **solving rea
 ### Documentation
 
 ![SVG Image](./assets/svg/swagger-svgrepo-com.svg)
-![SVG Image](./assets/svg/vite-svgrepo-com.svg)
-
