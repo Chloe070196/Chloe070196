@@ -23,7 +23,7 @@ Have a look at my experience and projects on my [**portfolio**](https://chloe-ze
 ![SVG Image](./assets/svg/sql-svgrepo-com.svg)
 ![SVG Image](./assets/svg/markdown-svgrepo-com.svg)
 
-They've all been tons of fun to learn, but I must say that figuring out JavaScript's quirks has definitely been a fun ride! I'm currently honing my skills by working my way through (https://codingchallenges.fyi/)[https://codingchallenges.fyi/] and codewars exercises.
+They've all been tons of fun to learn, but I must say that figuring out JavaScript's quirks has definitely been a fun ride! I'm currently honing my skills by working my way through (https://codingchallenges.fyi/)[https://codingchallenges.fyi/], building my personal projects, and completing codewars exercises, where I focus on TypeScript.
 
 I've taken the plunge and started learning C# on the weekends. It isn't that I've mastered everything there is to master about JS - no, the aim here is to keep me on my toes, remain adaptable, and maintain a growth mindest. First step: get the syntax down (which I'm doing through https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/ - 2 modules down, 5 to go!)
 
