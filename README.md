@@ -2,7 +2,7 @@
 
 ## Hello there, I'm Chloe, a junior full-stack developer
 
- with a passion for **solving real-life problems** using code. I started coding last year and joined Boolean UK, completing their **6-month, full-time, full-stack software development bootcamp**, and I have not stopped since then.
+ with a passion for **solving real-life problems** using code. I started coding in July 2023 and joined Boolean UK, completing their **6-month, full-time, full-stack software development bootcamp**, and I have not stopped since then. 
 
 Have a look at my experience and projects on my [**portfolio**](https://chloe-zermatten-portfolio.vercel.app/), or get in touch with me on [**linkedin**](https://www.linkedin.com/in/chloé-z)!
 
@@ -51,7 +51,7 @@ As for prisma, it's been awfully handy. Using this ORM regularly when completing
 ![SVG Image](./assets/svg/vscode2-svgrepo-com.svg)
 ![SVG Image](./assets/svg/github-142-svgrepo-com.svg)
 
-Working with these tools daily, I keep discovering new features and settings. VS Code has been absolutely great, especially for resolving conflicts occuring upon merges. I can't wait to see what other cool feature I'm going to stumble upon as I keep experimenting around!
+Working with these tools daily, I keep discovering new features and settings. VS Code has been absolutely great, especially for resolving conflicts occuring upon merges. I can't wait to see what other cool features I'm going to stumble upon as I keep experimenting around!
 
 ### Documentation
 
