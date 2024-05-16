@@ -41,6 +41,7 @@ Of the two, I'm definitely more familiar with React - I've spent a lot of time e
 ![SVG Image](./assets/svg/expressjs-icon.svg)
 ![SVG Image](./assets/svg/nestjs-svgrepo-com.svg)
 ![SVG Image](./assets/svg/light-prisma-svgrepo-com.svg)
+![SVG Image](./assets/svg/typeorm-iconify.svg)
 ![SVG Image](./assets/svg/pgsql-svgrepo-com.svg)
 
 I love the freedom express.js gives since it is unopinionated, but then again, I've learnt so much through my brief stint using NestJS for my graduation project that I'm definitely going to be spending more time with it!
@@ -55,7 +56,6 @@ As for prisma, it's been awfully handy. Using this ORM regularly when completing
 
 Working with these tools daily, I keep discovering new features and settings. VS Code has been absolutely great, especially for resolving conflicts occuring upon merges. I can't wait to see what other cool feature I'm going to stumble upon as I keep experimenting around!
 
-### Documentation
+### Other
 
 ![SVG Image](./assets/svg/swagger-svgrepo-com.svg)
-
