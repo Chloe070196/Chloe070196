@@ -2,7 +2,7 @@
 
 ## Hello there, I'm Chloe, a junior full-stack developer
 
- with a passion for **solving real-life problems** using code. I started coding last year and joined Boolean UK, completing their **6-month, full-time, full-stack software development bootcamp**, and I have not stopped since then.
+ with a passion for **solving real-life problems** using code. I started coding in July 2023 and joined Boolean UK, completing their **6-month, full-time, full-stack software development bootcamp**, and I have not stopped since then. 
 
 Have a look at my experience and projects on my [**portfolio**](https://chloe-zermatten-portfolio.vercel.app/), or get in touch with me on [**linkedin**](https://www.linkedin.com/in/chloé-z)!
 
@@ -23,9 +23,7 @@ Have a look at my experience and projects on my [**portfolio**](https://chloe-ze
 ![SVG Image](./assets/svg/sql-svgrepo-com.svg)
 ![SVG Image](./assets/svg/markdown-svgrepo-com.svg)
 
-They've all been tons of fun to learn, but I must say that figuring out JavaScript's quirks has definitely been a fun ride! I'm currently honing my skills by working my way through (https://codingchallenges.fyi/)[https://codingchallenges.fyi/] and codewars exercises.
-
-I've taken the plunge and started learning C# on the weekends. It isn't that I've mastered everything there is to master about JS - no, the aim here is to keep me on my toes, remain adaptable, and maintain a growth mindest. First step: get the syntax down (which I'm doing through https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/ - 2 modules down, 5 to go!)
+They've all been tons of fun to learn, but I must say that figuring out JavaScript's quirks has definitely been a fun ride! I'm currently honing my skills by working on a booking app (full stack: TypeScript, React, Express, TypeORM, Postgres, Jest), and completing C# challenges (mini-projects).
 
 ### Frameworks & libraries
 
@@ -54,7 +52,7 @@ As for prisma, it's been awfully handy. Using this ORM regularly when completing
 ![SVG Image](./assets/svg/vscode2-svgrepo-com.svg)
 ![SVG Image](./assets/svg/github-142-svgrepo-com.svg)
 
-Working with these tools daily, I keep discovering new features and settings. VS Code has been absolutely great, especially for resolving conflicts occuring upon merges. I can't wait to see what other cool feature I'm going to stumble upon as I keep experimenting around!
+Working with these tools daily, I keep discovering new features and settings. VS Code has been absolutely great, especially for resolving conflicts occuring upon merges. I can't wait to see what other cool features I'm going to stumble upon as I keep experimenting around!
 
 ### Other
 
