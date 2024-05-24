@@ -22,6 +22,7 @@ Have a look at my experience and projects on my [**portfolio**](https://chloe-ze
 ![SVG Image](./assets/svg/typescript-official-svgrepo-com.svg)
 ![SVG Image](./assets/svg/sql-svgrepo-com.svg)
 ![SVG Image](./assets/svg/markdown-svgrepo-com.svg)
+![SVG Image](./assets/svg/c-sharp-svgrepo-com.svg)
 
 They've all been tons of fun to learn, but I must say that figuring out JavaScript's quirks has definitely been a fun ride! I'm currently honing my skills by working on a booking app (full stack: TypeScript, React, Express, TypeORM, Postgres, Jest), and completing C# challenges (mini-projects).
 
