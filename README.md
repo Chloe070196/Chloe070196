@@ -1,6 +1,6 @@
 # Welcome !
 
-## Hello there, I'm Chloe, a full-stack developer
+## Hello there, I'm Chloe, a full-stack software developer
 
  with a passion for **solving real-life problems** using code. I started coding in July 2023 and joined Boolean UK, completing their **6-month, full-time, full-stack software development bootcamp**, and I have not stopped since then. 
 
